@@ -15,11 +15,12 @@ This is an advanced technical class. There will be a mandatory tutorial session 
 ### Schedule
 
 - [[11/7] (https://github.com/giladlotan/surveillancesociety/blob/master/week1.ipynb)] Week 1
+    - [[Technical Setup] (https://github.com/giladlotan/surveillancesociety/blob/master/setup.md)]
 - [[11/14] (https://github.com/giladlotan/surveillancesociety/blob/master/week2.ipynb)] Week 2
 - [[11/21] (https://github.com/giladlotan/surveillancesociety/blob/master/week3.ipynb)] Week 3
 - [[11/28] (https://github.com/giladlotan/surveillancesociety/blob/master/week4.ipynb)] Week 4
 - [[12/5] (https://github.com/giladlotan/surveillancesociety/blob/master/week5.ipynb)] Week 5
-- [[12/12] ()] Final Projects
+- [12/12] Final Projects
 
 ---
 ### Logistics
