@@ -16,9 +16,10 @@ This is an advanced technical class. There will be a mandatory tutorial session 
 
 - [[11/7] (https://github.com/giladlotan/surveillancesociety/blob/master/week1.ipynb)] Week 1
     - [Technical Setup] (https://github.com/giladlotan/surveillancesociety/blob/master/setup.md)
-    - For next week: 
+    - For next week:
         1. Read William Whyte’s “The City”, “Performances” in Erving Goffman’s “The Presentation of Self in Everyday Life.”
         2. Complete [Social Observation Assignment] (https://github.com/giladlotan/surveillancesociety/blob/master/observation-asgn.md)
+        3. Complete technical questions from ipython notebook and prepare short responses in groups for next week (5 minutes max).
 - [[11/14] (https://github.com/giladlotan/surveillancesociety/blob/master/week2.ipynb)] Week 2
     - For next week: Read Bowker & Star on apartheid; Enigma’s [“Who’s Counting”] (http://blog.enigma.io/whos-counting-the-history-of-the-u-s-census/)
 - [[11/21] (https://github.com/giladlotan/surveillancesociety/blob/master/week3.ipynb)] Week 3
@@ -65,15 +66,15 @@ Each week, we will ask you to complete mini-assignments that show that you’re 
 
 *Rules of Engagement*
 
-Your Target is a real person who has voluntarily given consent to participate in this class. We take the safety and wellbeing of the Targets seriously and you must do so as well. 
+Your Target is a real person who has voluntarily given consent to participate in this class. We take the safety and wellbeing of the Targets seriously and you must do so as well.
 
 The following are rules of engagement. You must agree to these Rules to participate in this class. If at any point, you violate these Rules, you will be immediately expelled from the class and given a failing grade. If your violation harms the Target in any way, you may face additional consequences.
 
 - Rule #1. You may not under any circumstance at any point ever approach the Target, the Target’s connections, the Target’s home, the Target’s place of work. This is non-negotiable so don’t even think of violating this Rule.
 
-- Rule #2. This is a digital-only project, focused on getting data from digital records. You may not physically approach any of the venues you find through this process. For example, you cannot visit an office to see what it is. Pretend like you live on a remote island.  Google and open data are your friend.  You may pull any digital record you can *legally* get your hands on and you should document the processes in which you’ve gotten that data. 
+- Rule #2. This is a digital-only project, focused on getting data from digital records. You may not physically approach any of the venues you find through this process. For example, you cannot visit an office to see what it is. Pretend like you live on a remote island.  Google and open data are your friend.  You may pull any digital record you can *legally* get your hands on and you should document the processes in which you’ve gotten that data.
 
-- Rule #3. You may not share any information you find about your Target - or your Target’s data - with anyone outside of the class. You must get permission before publicizing any part of this work that might result in the Target being identified or harmed. Keep the data secure and be a responsible and ethical data scientist. 
+- Rule #3. You may not share any information you find about your Target - or your Target’s data - with anyone outside of the class. You must get permission before publicizing any part of this work that might result in the Target being identified or harmed. Keep the data secure and be a responsible and ethical data scientist.
 
 This course is going to ask you to engage with ethical thinking by the vary nature of the work we are asking you to do. Be attentive at every turn to the ethical limits of what you are doing. If at any point, you are uncomfortable with what you or your classmates are doing, please contact us immediately.  We will also provide room during the class to discuss ethical issues that emerge throughout this project.
 
