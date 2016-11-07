@@ -1,4 +1,4 @@
-'''ITP Surveillance Society / Observation Assignment'''
+**ITP Surveillance Society / Observation Assignment**
 
 The purpose of this assignment is to learn to watch the street. Before embarking on this assignment, read Chapter 2 of William Whyte’s "City" ("The Social Life of the Street") (in Dropbox) to get a sense of what it means to learn to see. 
 
