@@ -19,7 +19,7 @@ This is an advanced technical class. There will be a mandatory tutorial session 
     - For next week:
         1. Read William Whyte’s “The City”, “Performances” in Erving Goffman’s “The Presentation of Self in Everyday Life.”
         2. Complete [Social Observation Assignment] (https://github.com/giladlotan/surveillancesociety/blob/master/observation-asgn.md)
-        3. Complete technical questions from ipython notebook and prepare short responses in groups for next week (5 minutes max).
+        3. Complete technical questions from [this week's ipython notebook] (https://github.com/giladlotan/surveillancesociety/blob/master/class_1.ipynb) and prepare short responses in your group for next week (5 minutes max).
 - [[11/14] (https://github.com/giladlotan/surveillancesociety/blob/master/week2.ipynb)] Week 2
     - For next week: Read Bowker & Star on apartheid; Enigma’s [“Who’s Counting”] (http://blog.enigma.io/whos-counting-the-history-of-the-u-s-census/)
 - [[11/21] (https://github.com/giladlotan/surveillancesociety/blob/master/week3.ipynb)] Week 3
