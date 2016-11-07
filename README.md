@@ -16,9 +16,13 @@ This is an advanced technical class. There will be a mandatory tutorial session 
 
 - [[11/7] (https://github.com/giladlotan/surveillancesociety/blob/master/week1.ipynb)] Week 1
     - [Technical Setup] (https://github.com/giladlotan/surveillancesociety/blob/master/setup.md)
+    - For next week: Read William Whyte’s “The City”, “Performances” in Erving Goffman’s “The Presentation of Self in Everyday Life.”
 - [[11/14] (https://github.com/giladlotan/surveillancesociety/blob/master/week2.ipynb)] Week 2
+    - For next week: Read Bowker & Star on apartheid; Enigma’s [“Who’s Counting”] (http://blog.enigma.io/whos-counting-the-history-of-the-u-s-census/)
 - [[11/21] (https://github.com/giladlotan/surveillancesociety/blob/master/week3.ipynb)] Week 3
+    - For next week: Read Judith Donath on identity
 - [[11/28] (https://github.com/giladlotan/surveillancesociety/blob/master/week4.ipynb)] Week 4
+    - For next week: Read boyd & Crawford’s questions for big data
 - [[12/5] (https://github.com/giladlotan/surveillancesociety/blob/master/week5.ipynb)] Week 5
 - [12/12] Final Projects
 
