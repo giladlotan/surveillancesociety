@@ -48,8 +48,10 @@ This is your semester-long assignment. You should know this going into the class
 On Day #1, your group will be handed a USB drive. It will contain a zipped file of data including the following three columns: latitude, longitude, and timestamp. Those are each geographic coordinates derived from the phone of your “Target.”  Together, this file reveals where your Target’s phone has been over an extended period of time.
 
 Your assignment in this class is two-part:
-# Identify your Target. (Goal: Dec 5)
-# Build a data portrait of your Target (to be displayed and explained on December 12).
+
+1) Identify your Target. (Goal: Dec 5)
+
+2) Build a data portrait of your Target (to be displayed and explained on December 12).
 
 We will help you develop the skills to do this.  Ideally, you will use your sleuthing data-oriented skills to identify the full name and identity of your Target. But even if you don’t get to that level of detail, you will develop an intimate understanding of your Target’s activities and patterns.  If you successfully identify your target, you should pull social media and web-based data about your target to help you build a portrait of your Target. You can use whatever medium makes you happy to build your portrait.
 
