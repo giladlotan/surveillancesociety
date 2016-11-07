@@ -111,6 +111,13 @@ git clone https://github.com/giladlotan/surveillancesociety
 
 When we navigate to: localhost:8888/ - in our browser, we should be able to see the class materials and notebooks.
 
+
+**Google API**
+
+Go to the Google API Console - https://console.developers.google.com/
+You will need to create an API key and enable various APIs that you may want to use (Google Maps Javascript API, Google Places API...)
+
+
 **Links**
 - Virtualenvwrapper documentation: http://virtualenvwrapper.readthedocs.io/en/latest/
 - Jupyter Notebook documentation: http://jupyter.org/
