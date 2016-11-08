@@ -91,4 +91,4 @@ This course is going to ask you to engage with ethical thinking by the vary natu
 - Group #1: Frate, Hoff, Kagan, Ma, Mehrota
 - Group #2: Abrassart, Charry, Germanidis, Parr, Ruckman
 - Group #3: Bachman, Kim, Kruliasuskaite, Leopold, Quach
-- Group #4: Eckert, Gamez-Djoki, He, Huggins, Sehgol, Soltani
+- Group #4: Eckert, He, Huggins, Ricks, Sehgol, Soltani
