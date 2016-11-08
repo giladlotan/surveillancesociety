@@ -117,6 +117,25 @@ When we navigate to: localhost:8888/ - in our browser, we should be able to see 
 Go to the Google API Console - https://console.developers.google.com/
 You will need to create an API key and enable various APIs that you may want to use (Google Maps Javascript API, Google Places API...)
 
+First create a new project. Then click into the 'Library' tab on the left, and navigate to 'Google Maps JavaScript API'. On the top of that page click 'ENABLE'. This gives our api key access to that service. Finally, grab your API key from the 'Credentials' tab on the left:
+
+credentials -> create API key -> copy the key and paste it in the right place within your ipython notebook.
+
+Next we just need to run a few things in the terminal (make sure you are in the right virtual environment).
+
+Enable widgets extensions to Jupyter:
+
+```
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
+
+```
+
+Install gmaps python component and tell Jupyter to load the extension:
+
+```
+pip install gmaps
+jupyter nbextension enable --py gmaps
+```
 
 **Links**
 - Virtualenvwrapper documentation: http://virtualenvwrapper.readthedocs.io/en/latest/
