@@ -51,8 +51,7 @@ This is an advanced technical class. There will be a mandatory tutorial session 
 - Evaluation:
   - On-time attendance and class participation: 25%
   - Assignments: 25%
-  - Mid-term Bot Project: 25%
-  - Final Project: 25%
+  - Final Project: 50%
   - _Note: Showing up more than 10 minutes late without prior notice is an unexcused absence. More than 2 unexcused absences results in automatic failure._
 
 ---
