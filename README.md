@@ -14,26 +14,26 @@ This is an advanced technical class. There will be a mandatory tutorial session 
 ---
 ### Schedule
 
-- [[11/7] (https://github.com/giladlotan/surveillancesociety/blob/master/week1.ipynb)] Week 1: Surveillance and Privacy
+- [11/7] Week 1: Surveillance and Privacy
     - [Technical Setup] (https://github.com/giladlotan/surveillancesociety/blob/master/setup.md)
     - For next week:
         1. Read William Whyte’s “The City”, “Performances” in Erving Goffman’s “The Presentation of Self in Everyday Life.”
         2. Complete [Social Observation Assignment] (https://github.com/giladlotan/surveillancesociety/blob/master/observation-asgn.md)
         3. Complete technical questions from [this week's ipython notebook] (https://github.com/giladlotan/surveillancesociety/blob/master/class_1.ipynb) and prepare short responses in your group for next week (5 minutes max).
-- [[11/14] (https://github.com/giladlotan/surveillancesociety/blob/master/week2.ipynb)] Week 2: Seeing Ethnographically
-    - For next week: 
+- [11/14] Week 2: Seeing Ethnographically
+    - For next week:
         1. Read Bowker & Star on apartheid; Enigma’s [“Who’s Counting”] (http://blog.enigma.io/whos-counting-the-history-of-the-u-s-census/)
-        2. Technical assignment TBA
-- [[11/21] (https://github.com/giladlotan/surveillancesociety/blob/master/week3.ipynb)] Week 3: Categories and Classification
-    - For next week: 
+        2. Complete technical questions from [this week's ipython notebook] (https://github.com/giladlotan/surveillancesociety/blob/master/class_2.ipynb) and prepare short responses in your group for next week (5 minutes max).
+- [11/21] Week 3: Categories and Classification
+    - For next week:
         1. Read Judith Donath on identity
-        2. Technical assignment TBA         
-- [[11/28] (https://github.com/giladlotan/surveillancesociety/blob/master/week4.ipynb)] Week 4: Signals and Knowledge
-    - For next week: 
+        2. Technical assignment TBA
+- [11/28] Week 4: Signals and Knowledge
+    - For next week:
         1. Read boyd & Crawford’s questions for big data
-        2. Technical assignment TBA  
-- [[12/5] (https://github.com/giladlotan/surveillancesociety/blob/master/week5.ipynb)] Week 5: Moral Boundaries
-    - For next week: 
+        2. Technical assignment TBA
+- [12/5] Week 5: Moral Boundaries
+    - For next week:
         1. Complete final project!
 - [12/12] Week 6: Final Project Presentations
 
