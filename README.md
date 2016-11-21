@@ -27,11 +27,10 @@ This is an advanced technical class. There will be a mandatory tutorial session 
 - [11/21] Week 3: Categories and Classification
     - For next week:
         1. Read Judith Donath on identity
-        2. Technical assignment TBA
+        2. Complete technical questions from [this week's ipython notebook] (https://github.com/giladlotan/surveillancesociety/blob/master/class_3.ipynb).
 - [11/28] Week 4: Signals and Knowledge
     - For next week:
         1. Read boyd & Crawford’s questions for big data
-        2. Technical assignment TBA
 - [12/5] Week 5: Moral Boundaries
     - For next week:
         1. Complete final project!
