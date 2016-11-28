@@ -1,0 +1,15 @@
+Programming from A,Nikita,Ruta,Serena,RebeccaR,Ondina,Daniel,RebeccaL,Joakim,Leslie
+Programming Design,Dana,Osama,Jamie
+Learning Machines,Leon,Nicole,Daniel,Yuchi,Joakim,Jamie,Ondina,Melanie,Ruta,Dhruv,Allison
+Digital Imaging,Osama,RebeccaL
+Data Art,Serena,Jennifer,RebeccaR
+Live Web,Leon,Melanie,Joakim,Ondina,RebeccaL
+Physical Computing,Jasmine,Anastasios
+Project Development,RebeccaR,Jennifer
+Understanding Netw,Jamie,Nicole,Jennifer,Allison,Leon,Melanie,Dhruv
+Testing Tomorrow,RebeccaL,Leslie
+DIY-VR,Allison,Serena
+Hacking Story Fram,Dana,Ruta,Leslie,Allison,RebeccaR
+New Interfaces for,Daniel,Nikita
+Alt Docs,Serena,Dhruv,Leslie
+Designing for Data,Joakim,Osama,Ondina,Leslie
