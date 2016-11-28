@@ -31,6 +31,7 @@ This is an advanced technical class. There will be a mandatory tutorial session 
 - [11/28] Week 4: Signals and Knowledge
     - For next week:
         1. Read boyd & Crawford’s questions for big data
+        2. Complete technical questions from [this week's ipython notebook] (https://github.com/giladlotan/surveillancesociety/blob/master/class_4_network_analysis.ipynb).
 - [12/5] Week 5: Moral Boundaries
     - For next week:
         1. Complete final project!
